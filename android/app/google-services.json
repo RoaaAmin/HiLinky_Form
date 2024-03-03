@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185653608297",
+    "project_id": "hilinky-demo",
+    "storage_bucket": "hilinky-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185653608297:android:99b59739b121e5b94e87f8",
+        "android_client_info": {
+          "package_name": "com.example.hilinky_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxp9u8Jw3Sf9p0ASSmdjQrd0fqURFTtIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
