@@ -16,9 +16,11 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # Mobile app with Flutter
-Use of Flutter's animation package (animate_do) for animations.
-Use of Flutter's layout package (sizer) for responsive layout design.
-Integration with Firebase Firestore for data storage.
+  Use of Flutter's animation package (animate_do) for animations.
+  
+  Use of Flutter's layout package (sizer) for responsive layout design.
+  
+  Integration with Firebase Firestore for data storage.
 
 # Preview 
 
