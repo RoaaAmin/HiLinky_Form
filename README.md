@@ -1,4 +1,4 @@
-# hiLinky v1
+# hiLinky Form
 
 A Flutter animated form app for wetaan that support both android and ios connected to firebase. 
 
